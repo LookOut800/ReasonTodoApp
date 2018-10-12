@@ -1,2 +1,0 @@
-# ReasonTodoApp
-Created with CodeSandbox
